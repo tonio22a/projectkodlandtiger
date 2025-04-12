@@ -7,3 +7,4 @@
 
 ![image](https://github.com/user-attachments/assets/ee480308-2d25-4f65-bef1-80b3a3a109bf) ![image](https://github.com/user-attachments/assets/90dc9b3e-c49a-4c97-aeb1-3a9c6e18b144)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
