@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://telegra.ph/License-MIT-04-12) - ©️ Лицензия на программу
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/tonio22a/typesoftigers/blob/main/LICENSE) - ©️ Лицензия на программу
 
 🐅 Данный бот способен вычислять виды тигров. Эта небольшая программа будет полезна для людей, изучающих окружающий наш мир.
 
