@@ -2,7 +2,7 @@ from logic import detect_tiger
 from PIL import Image
 import telebot 
 
-bot = telebot.TeleBot("7805143751:AAF2IeiroZ0LqChPDl0ddrIPXwdR9v4eN74")
+bot = telebot.TeleBot(TOKEN)
 
 # Обработчики команд
 @bot.message_handler(commands=['help', 'start'])
